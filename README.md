@@ -8,4 +8,4 @@ Repositório para publicação das resoluções dos exercícios de Laboratório 
 
 ## Professor responsável
 
-* Nome completo do professor
+* Leonardo Vilela Cardoso
