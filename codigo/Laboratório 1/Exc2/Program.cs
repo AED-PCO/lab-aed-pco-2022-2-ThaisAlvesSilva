@@ -8,7 +8,7 @@ namespace Exc2
         {
             int num;
 
-            Console.Write("Digite um número: ");
+            Console.Write("Digite um número para saber se é primo: ");
             num = int.Parse(Console.ReadLine());
 
             Console.WriteLine("\nO número {0} {1}.", num, verificaPrimo(num) ? "é primo" : "não é primo");

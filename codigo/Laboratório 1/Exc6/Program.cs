@@ -9,10 +9,10 @@ namespace Exc6
             int x, y;
             double result = 0;
 
-            Console.Write("Digite o valor de x: ");
+            Console.Write("Digite o valor de x(base): ");
             x = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o valor de y: ");
+            Console.Write("Digite o valor de y(expoente): ");
             y = int.Parse(Console.ReadLine());
 
             calcula(x, y, ref result);
