@@ -14,10 +14,10 @@ namespace Exc3
             int i;
 
             for(i = 0; i < 5; i++){
-                A[i] = randNum.Next(10);
+                A[i] = randNum.Next(1,15);
             }
             for(i = 0; i < 5; i++){
-                B[i] = randNum.Next(10);;
+                B[i] = randNum.Next(1,15);
             }
 
             Console.WriteLine("Vetor A:");
