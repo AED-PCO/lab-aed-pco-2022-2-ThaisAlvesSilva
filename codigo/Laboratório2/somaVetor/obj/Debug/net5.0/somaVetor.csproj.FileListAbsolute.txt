@@ -1,0 +1,64 @@
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\bin\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios - Recursividade\somaVetor\obj\Debug\net5.0\somaVetor.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\somaVetor.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\somaVetor.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\bin\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\somaVetor\obj\Debug\net5.0\somaVetor.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\somaVetor.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\somaVetor.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\somaVetor.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\bin\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\ref\somaVetor.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\somaVetor\obj\Debug\net5.0\somaVetor.genruntimeconfig.cache
