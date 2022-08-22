@@ -4,7 +4,7 @@ Repositório para publicação das resoluções dos exercícios de Laboratório 
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno
+* Thais Alves Silva
 
 ## Professor responsável
 
