@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fraseVogal/1.0.0": {
+        "runtime": {
+          "fraseVogal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fraseVogal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
