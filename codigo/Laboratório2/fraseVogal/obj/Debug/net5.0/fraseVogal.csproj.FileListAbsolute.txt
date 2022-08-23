@@ -46,3 +46,19 @@ C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\f
 C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\fraseVogal\obj\Debug\net5.0\ref\fraseVogal.dll
 C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\fraseVogal\obj\Debug\net5.0\fraseVogal.pdb
 C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\fraseVogal\obj\Debug\net5.0\fraseVogal.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\fraseVogal.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\fraseVogal.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\fraseVogal.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\fraseVogal.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\fraseVogal.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\ref\fraseVogal.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\bin\Debug\net5.0\fraseVogal.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\ref\fraseVogal.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\fraseVogal\obj\Debug\net5.0\fraseVogal.genruntimeconfig.cache

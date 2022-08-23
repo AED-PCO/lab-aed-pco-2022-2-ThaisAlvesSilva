@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\fraseVogal\\fraseVogal.csproj",
+      "projectUniqueName": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\fraseVogal\\fraseVogal.csproj",
       "projectName": "fraseVogal",
-      "projectPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\fraseVogal\\fraseVogal.csproj",
+      "projectPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\fraseVogal\\fraseVogal.csproj",
       "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\fraseVogal\\obj\\",
+      "outputPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\fraseVogal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
