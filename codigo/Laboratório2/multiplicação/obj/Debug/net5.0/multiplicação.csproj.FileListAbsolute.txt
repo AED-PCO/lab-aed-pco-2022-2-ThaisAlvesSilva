@@ -46,3 +46,19 @@ C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\m
 C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\multiplicação\obj\Debug\net5.0\ref\multiplicação.dll
 C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\multiplicação\obj\Debug\net5.0\multiplicação.pdb
 C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 2\multiplicação\obj\Debug\net5.0\multiplicação.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\multiplicação.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\multiplicação.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\multiplicação.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\multiplicação.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\multiplicação.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\ref\multiplicação.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\bin\Debug\net5.0\multiplicação.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\ref\multiplicação.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\lab-aed-pco-2022-2-ThaisAlvesSilva\codigo\Laboratório2\multiplicação\obj\Debug\net5.0\multiplicação.genruntimeconfig.cache

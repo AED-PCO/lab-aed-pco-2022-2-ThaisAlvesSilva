@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\multiplicação\\multiplicação.csproj": {}
+    "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\multiplicação\\multiplicação.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\multiplicação\\multiplicação.csproj": {
+    "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\multiplicação\\multiplicação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\multiplicação\\multiplicação.csproj",
+        "projectUniqueName": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\multiplicação\\multiplicação.csproj",
         "projectName": "multiplicação",
-        "projectPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\multiplicação\\multiplicação.csproj",
+        "projectPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\multiplicação\\multiplicação.csproj",
         "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\Laboratórios\\Laboratório 2\\multiplicação\\obj\\",
+        "outputPath": "C:\\Users\\alves\\OneDrive\\Área de Trabalho\\PUC\\AED\\lab-aed-pco-2022-2-ThaisAlvesSilva\\codigo\\Laboratório2\\multiplicação\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
