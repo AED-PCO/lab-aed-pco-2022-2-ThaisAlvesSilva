@@ -65,4 +65,13 @@ Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem n
 #### Exemplo:
 ![Laboratorio 2 - Exercicio 6](/relatorio/Imagens/Laboratorio2/Exc6.jpg)
 
+### Exercício 7
+
+Escreva um método recursivo para saber qual é o número na sequencia de Fibonacci em determinada posição. 
+
+#### Resolução:
+
+#### Exemplo:
+![Laboratorio 2 - Exercicio 7](/relatorio/Imagens/Laboratorio2/Exc7.jpg)
+
 
