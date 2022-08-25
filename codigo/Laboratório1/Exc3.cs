@@ -17,7 +17,7 @@ namespace Exc3
                 A[i] = randNum.Next(1,15);
             }
             for(i = 0; i < 5; i++){
-                B[i] = randNum.Next(1,15);
+                B[i] = randNum.Next(1,15);;
             }
 
             Console.WriteLine("Vetor A:");
