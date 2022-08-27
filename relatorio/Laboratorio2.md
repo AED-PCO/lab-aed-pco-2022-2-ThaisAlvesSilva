@@ -59,7 +59,7 @@ Escreva um método recursivo que calcule a soma dos elementos de valor par de um
 
 #### Resolução:
 
-Para realizar a soma foi feita uma função recursiva que recebe sempre o vetor e um parâmetro que será decrementado a cada operação. Dentro da função é feita uma verificação para saber o resto da divisão do número por 2 é igual a 0, ou seja, se ele é par, se isso for verdade é feito a soma e a chamada da função recursiva. 
+Para realizar a soma foi feita uma função recursiva que recebe sempre o vetor e um parâmetro que será decrementado a cada operação. Dentro da função é feita uma verificação para saber o resto da divisão do número por 2 é igual a 0, ou seja, se ele é par, se isso for verdade é feito a soma e a chamada da função recursiva, caso contrário, é feito apenas a chamada da função recursiva. 
 
 #### Exemplo:
 ![Laboratorio 2 - Exercicio 5](/relatorio/Imagens/Laboratorio2/Exc5.jpg)
@@ -82,7 +82,7 @@ Foi feita uma função que recebe a frase. A cada interação é feito uma verif
 Escreva um método recursivo para saber qual é o número na sequencia de Fibonacci em determinada posição. 
 
 #### Resolução:
-Para calcular o número foi feita a chamada da função duas vezes e realiza a soma do resultado.
+Para calcular o número foi feita a chamada da função duas vezes, uma passando como parâmetro o número -1 e a outra passando o numero -1, para que assim houvesse a soma dos dois resultados.
 
 #### Exemplo:
 ![Laboratorio 2 - Exercicio 7](/relatorio/Imagens/Laboratorio2/Exc7.jpg)
