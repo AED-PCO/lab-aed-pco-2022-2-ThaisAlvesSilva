@@ -1,0 +1,64 @@
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\Exc3.exe
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\Exc3.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\bin\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\Exercicios_Revisão\Exc3\obj\Debug\net5.0\Exc3.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\Exc3.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\Exc3.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\bin\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Exercicios_Introdução\Exc3\obj\Debug\net5.0\Exc3.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\Exc3.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\Exc3.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\bin\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 1\Exc3\obj\Debug\net5.0\Exc3.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\Exc3.exe
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\Exc3.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\Exc3.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\bin\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\ref\Exc3.dll
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\PUC\AED\Laboratórios\Laboratório 3\Exercicios_Laboratorio1\Exc3\obj\Debug\net5.0\Exc3.genruntimeconfig.cache
