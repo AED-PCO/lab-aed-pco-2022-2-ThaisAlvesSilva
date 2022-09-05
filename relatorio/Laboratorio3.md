@@ -68,6 +68,7 @@
 #
 
 ### Exercicio 2
+![Laboratorio 3 - Exercicio 3](/relatorio/Imagens/Laboratorio3/Laboratorio2/Exc2/Atribuições.png)
 
 ![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/Laboratorio2/Exc2/Comparações.png)
 
