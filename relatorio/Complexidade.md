@@ -59,7 +59,7 @@ Caso médio: o valor procurado estar entre a última e a primeira posição.
 
 ![Complexidade - Exercicio 4](/relatorio/Imagens/Complexidade/Exc4.jpg)
 
-**Operação mais relevante:** Comparações
+**Operação mais relevante:** Atribuições
 
 |Operação    | Quantidade  | 
 |------|-----------------------------------------|
