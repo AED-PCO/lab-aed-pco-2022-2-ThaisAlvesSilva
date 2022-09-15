@@ -112,3 +112,13 @@
 
 #
 
+## Busca binária
+
+![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/buscaBinariaComPos.jpg)
+
+## Busca binária sem passar a posição
+
+![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/buscaBinariaSemPos.jpg)
+
+
+
