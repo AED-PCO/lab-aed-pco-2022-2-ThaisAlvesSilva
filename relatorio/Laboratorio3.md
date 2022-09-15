@@ -1,5 +1,26 @@
 # Exercícios  - Laboratório 3
 
+## Busca binária
+
+#### Resolução:
+
+#### Exemplo:
+
+![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaComPos/buscaBinariaComPos.jpg)
+
+![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaComPos/Grafico.png)
+
+## Busca binária sem passar a posição
+
+#### Resolução:
+
+#### Exemplo:
+
+![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaSemPos/buscaBinariaSemPos.jpg)
+
+![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaSemPos/Grafico.png)
+
+
 ## Gráficos Laboratório 1
 
 ### Exercicio 1
@@ -111,26 +132,6 @@
 ![Laboratorio 3 - Exercicio 6](/relatorio/Imagens/Laboratorio3/Laboratorio2/Exc6/Somas.png)
 
 #
-
-## Busca binária
-
-#### Resolução:
-
-#### Exemplo:
-
-![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaComPos/buscaBinariaComPos.jpg)
-
-![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaComPos/Grafico.png)
-
-## Busca binária sem passar a posição
-
-#### Resolução:
-
-#### Exemplo:
-
-![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaSemPos/buscaBinariaSemPos.jpg)
-
-![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaSemPos/Grafico.png)
 
 
 
