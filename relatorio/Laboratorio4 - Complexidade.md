@@ -63,8 +63,8 @@ Caso médio: o valor procurado estar entre a última e a primeira posição.
 
 |Operação    | Quantidade  | 
 |------|-----------------------------------------|
-|Atribuições:| (m * n) + 2n + 1 |
-|Somas:| (m * n) + n  |
-|Divisões:| n  | n |
+|Atribuições:| $(n$<sup>$2$</sup>$+n/2$) + 2n + 1 |
+|Somas:| $(n$<sup>$2$</sup>$+n/2$) + n  |
+|Divisões:| n  |
 
 **Há variação de casos?** Não
