@@ -18,7 +18,7 @@
 
 #
 
-## Insert-Sort
+## Insertion-Sort
 
 #### Resolução:
 
