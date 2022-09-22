@@ -8,7 +8,7 @@
 
 #
 
-## Selection Sort
+## Selection-sort
 
 #### Resolução:
 
@@ -18,7 +18,7 @@
 
 #
 
-## Insertion-Sort
+## Insertion-sort
 
 #### Resolução:
 
