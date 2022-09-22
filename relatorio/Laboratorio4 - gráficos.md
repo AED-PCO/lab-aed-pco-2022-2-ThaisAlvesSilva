@@ -1,6 +1,14 @@
 # Gráficos  
 
 
+## Busca binária
+
+![Laboratorio 3 - Exercicio 1](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaComPos/Grafico.png)
+
+## Busca binária sem passar a posição
+
+![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaSemPos/Grafico.png)
+
 ## Gráficos Laboratório 1
 
 ### Exercicio 1
