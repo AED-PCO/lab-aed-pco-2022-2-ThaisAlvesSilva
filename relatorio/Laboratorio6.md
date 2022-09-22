@@ -24,6 +24,8 @@
 
 #### Exemplo:
 
+![Laboratorio 6 - InsertionSort](/relatorio/Imagens/Laboratorio6/Insertionsort.jpg)
+
 #
 
 ## Mergesort
