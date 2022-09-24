@@ -4,7 +4,9 @@
 
 #### Resolução:
 
-#### Exemplo:
+#### Gráfico:
+
+![Laboratorio 6 - BubbleSort](/relatorio/Imagens/Laboratorio6/bubblesortGrafico.png)
 
 #
 
