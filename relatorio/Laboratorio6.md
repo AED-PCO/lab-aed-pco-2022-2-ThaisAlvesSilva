@@ -14,9 +14,9 @@
 
 #### Resolução:
 
-#### Exemplo:
+#### Gráfico:
 
-![Laboratorio 6 - SelectionSort](/relatorio/Imagens/Laboratorio6/Selectionsort.jpg)
+![Laboratorio 6 - SelectionSort](/relatorio/Imagens/Laboratorio6/selectionsortGrafico.png)
 
 #
 
@@ -24,9 +24,9 @@
 
 #### Resolução:
 
-#### Exemplo:
+#### Gráfico:
 
-![Laboratorio 6 - InsertionSort](/relatorio/Imagens/Laboratorio6/Insertionsort.jpg)
+![Laboratorio 6 - InsertionSor](/relatorio/Imagens/Laboratorio6/insertionsortGrafico.png)
 
 #
 
