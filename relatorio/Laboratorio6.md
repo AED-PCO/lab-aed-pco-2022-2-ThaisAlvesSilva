@@ -34,5 +34,13 @@
 
 #### Resolução:
 
-#### Exemplo:
+#### Gráfico:
+
+## ShellSort:
+
+#### Resolução:
+
+#### Gráfico:
+
+![Laboratorio 6 - InsertionSor](/relatorio/Imagens/Laboratorio6/shellSortGrafico.png)
 
