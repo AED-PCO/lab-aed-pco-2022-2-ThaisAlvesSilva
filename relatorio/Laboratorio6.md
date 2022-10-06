@@ -26,7 +26,7 @@
 
 #### Gráfico:
 
-![Laboratorio 6 - InsertionSor](/relatorio/Imagens/Laboratorio6/insertionsortGrafico.png)
+![Laboratorio 6 - InsertionSort](/relatorio/Imagens/Laboratorio6/insertionsortGrafico.png)
 
 #
 
@@ -42,5 +42,13 @@
 
 #### Gráfico:
 
-![Laboratorio 6 - InsertionSor](/relatorio/Imagens/Laboratorio6/shellSortGrafico.png)
+![Laboratorio 6 - ShellSort](/relatorio/Imagens/Laboratorio6/shellSortGrafico.png)
+
+## Ordenação por contagem:
+
+#### Resolução:
+
+#### Exemplo:
+
+![Laboratorio 6 - por contagem](/relatorio/Imagens/Laboratorio6/porContagemExemplo.jpg)
 
