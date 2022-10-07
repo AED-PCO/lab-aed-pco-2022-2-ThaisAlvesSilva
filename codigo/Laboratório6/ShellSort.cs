@@ -6,14 +6,10 @@ namespace ShellSort
     {
         static void Main(string[] args)
         {
-            int[] vet = new int[1000];
+            int[] vet = new int[10];
             int comparacoes = 0, trocas = 0;
 
             preencheVetor(vet);
-
-            Console.WriteLine("Valores do vetor:");
-            imprimeVetor(vet);
-
 
             shellSort(vet, ref comparacoes, ref trocas);
 
@@ -27,30 +23,21 @@ namespace ShellSort
 
         static void shellSort(int[] vet, ref int comparacoes, ref int trocas){
 
-            int h = 8, i, j, aux;
+            int h = 4, i, j, referencia;
             while(h > 0){
-                h = h / 2;
-                for(i = 0; (i+h)<=vet.Length; i++){
-                    for(j = i; (j-h)>=0; j-=h){
-                        comparacoes++;
-                        if(vet[j] <= vet[j-h]){
-                            aux = vet[j];
-                            vet[j] = vet[j-h];
-                            vet[j-h] = aux;
-
-                            trocas++;
-                        }
+                for(i = 0; (i+h)<=(vet.Length -1); i++){
+                    referencia = vet[i+h];
+                    comparacoes++;
+                    for(j=i+h; (j-h>=0) && vet[j-h] >= referencia; j-=h){
+                        vet[j] = vet[j-h];
+                        trocas++;
                     }
+                    vet[j] = referencia;
+                     
                 }
-
-                if(h == 1){
-                    h--;
-                }
+                h = h / 2;
                 
             }
-            
-            
-
         }
 
         static void preencheVetor(int[] vet){
