@@ -2,7 +2,6 @@
 
 ## Bubblesort
 
-#### Resolução:
 
 #### Gráfico:
 
@@ -12,8 +11,6 @@
 
 ## Selection-sort
 
-#### Resolução:
-
 #### Gráfico:
 
 ![Laboratorio 6 - SelectionSort](/relatorio/Imagens/Laboratorio6/selectionsortGrafico.png)
@@ -22,31 +19,26 @@
 
 ## Insertion-sort
 
-#### Resolução:
-
 #### Gráfico:
 
 ![Laboratorio 6 - InsertionSort](/relatorio/Imagens/Laboratorio6/insertionsortGrafico.png)
 
 #
 
-## Mergesort
-
-#### Resolução:
+## MergeSort
 
 #### Gráfico:
+![Laboratorio 6 - MergeSort](/relatorio/Imagens/Laboratorio6/mergeSort.png)
+
+#
 
 ## ShellSort:
-
-#### Resolução:
 
 #### Gráfico:
 
 ![Laboratorio 6 - ShellSort](/relatorio/Imagens/Laboratorio6/shellSortGrafico.png)
 
 ## Ordenação por contagem:
-
-#### Resolução:
 
 #### Exemplo:
 
