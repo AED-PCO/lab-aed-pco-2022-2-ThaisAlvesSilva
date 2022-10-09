@@ -32,11 +32,20 @@
 
 #
 
+## QuickSort
+
+#### Gráfico:
+![Laboratorio 6 - QuickSort](/relatorio/Imagens/Laboratorio6/quickSort.png)
+
+#
+
 ## ShellSort:
 
 #### Gráfico:
 
 ![Laboratorio 6 - ShellSort](/relatorio/Imagens/Laboratorio6/shellSortGrafico.png)
+
+#
 
 ## Ordenação por contagem:
 
