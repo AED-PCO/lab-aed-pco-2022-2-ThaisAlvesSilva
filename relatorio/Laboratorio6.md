@@ -53,3 +53,6 @@
 
 ![Laboratorio 6 - por contagem](/relatorio/Imagens/Laboratorio6/porContagemExemplo.jpg)
 
+#### Gráfico:
+![Laboratorio 6 - porContagem](/relatorio/Imagens/Laboratorio6/porContagemGrafico.png)
+
