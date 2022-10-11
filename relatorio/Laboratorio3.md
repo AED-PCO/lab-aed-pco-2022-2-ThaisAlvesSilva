@@ -19,3 +19,12 @@ Para resolução desse problema foi feita uma função recursiva que recebe como
 #### Exemplo:
 
 ![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/buscaSemPos/buscaBinariaSemPos.jpg)
+
+## Ordenação
+#### Resolução:
+Para ordernar o vetor, baseou-se no algoritmo Mergesort que consiste em dividir o vetor de forma recursiva em subvetores, em seguida ordenar cada subvetor e depois realizar a intercalação dos subvetores.
+
+#### Exemplo:
+
+![Laboratorio 3 - Exercicio 2](/relatorio/Imagens/Laboratorio3/BuscaEOrdenacao/ordenacaoBinaria.jpg)
+
