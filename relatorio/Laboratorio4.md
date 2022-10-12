@@ -1,5 +1,7 @@
 # Gráficos  
 
+Para a contrução dos gráficos foram realizados testes com vetores  de 10, 100, 1000 e 10000 posições preenchidos aleatóriamente.
+
 
 ## Busca binária
 
