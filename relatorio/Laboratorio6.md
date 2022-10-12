@@ -57,6 +57,9 @@ Para o método do shellsort foi feito um while que irá controlar o hop, um laç
 
 ### Ordenação por contagem:
 
+Para a construção do método de ordenação por contagem foi feita uma função que contém 3 laços de repetição. O primeiro irá preencher a primeira coluna da matriz, começando sempre do menor elemento e indo de 1 em 1 até o maior elemento. O segundo for irá preencher a posição do cont, ou seja, a quantidade de total de cada valor presente no vetor e o terceiro for para preencher a coluna das posições iniciais de cada valor. Após isso é chamada uma função que irá preencher o vetor de acordo com os valores da matriz. 
+
+
 #### Exemplo:
 
 ![Laboratorio 6 - por contagem](/relatorio/Imagens/Laboratorio6/porContagemExemplo.jpg)
