@@ -17,6 +17,8 @@ Para a resolução do problema foi feita uma função que ler todas as linhas do
 
 ![Prova - Questao 1](/relatorio/Imagens/Laboratorio7/Questao1.jpg)
 
+#
+
 
 ### Questão 2
 
@@ -27,6 +29,8 @@ Para a resolução do problema foi feita uma função que ler todas as linhas do
 
 **c)** A função entrará em loop.
 
+
+#
 
 ### Questão 3
 
@@ -46,6 +50,8 @@ Foi feita uma função que recebe a frase e a posição. A cada interação é f
 
 ![Prova - Questao 3](/relatorio/Imagens/Laboratorio7/Questao3_1.jpg)
 
+#
+
 ### Questão 4
 
 **a)** Não foi o algoritmo correto devido a grande qauntidade de comparações e trocas que serão realizadas pelo método de inserção.
@@ -56,6 +62,8 @@ Foi feita uma função que recebe a frase e a posição. A cada interação é f
 **c)** Operações relevantes: divisões do vetor em subvetores e comparações.
 
 Foi feita uma função que gera os cpfs de forma automática e em seguida é utilizado o mergeSort para ordenação dos cpfs gerados. 
+
+#
 
 ### Questão 5
 
