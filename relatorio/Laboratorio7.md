@@ -9,6 +9,13 @@ Para a resolução do problema foi feita uma função que ler todas as linhas do
 
 #### Exemplo: 
 
+**Arquivo de entrada:**
+
+![Prova - Questao 1](/relatorio/Imagens/Laboratorio7/Questao1_1.jpg)
+
+**Saida:**
+
+![Prova - Questao 1](/relatorio/Imagens/Laboratorio7/Questao1.jpg)
 
 
 ### Questão 2
@@ -31,6 +38,14 @@ Foi feita uma função que recebe a frase e a posição. A cada interação é f
 
 #### Exemplo: 
 
+**Arquivo de entrada:**
+
+![Prova - Questao 3](/relatorio/Imagens/Laboratorio7/Questao3.jpg)
+
+**Saida:**
+
+![Prova - Questao 3](/relatorio/Imagens/Laboratorio7/Questao3_1.jpg)
+
 ### Questão 4
 
 **a)** Não foi o algoritmo correto devido a grande qauntidade de comparações e trocas que serão realizadas pelo método de inserção.
@@ -43,5 +58,11 @@ Foi feita uma função que recebe a frase e a posição. A cada interação é f
 Foi feita uma função que gera os cpfs de forma automática e em seguida é utilizado o mergeSort para ordenação dos cpfs gerados. 
 
 ### Questão 5
+
+Saida do programa:
+
+
+![Prova - Questao 5](/relatorio/Imagens/Laboratorio7/Questão5.jpg)
+
 
 
