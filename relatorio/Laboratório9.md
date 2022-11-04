@@ -2,12 +2,12 @@
 
 ## Cópia Fila
 
-Criar  uma fila e copiar para uma outra fila com a ordem inversa.
+Criar  uma fila e copiar para uma outra fila com a ordem inversa dos elementos.
 
 ## Cópia Pilha
 
-Criar uma pilha e copiar seus  elementos para uma pilha cópia mantendo a mesma ordem dos elem
-
-
+Criar uma pilha e copiar seus  elementos para uma pilha cópia mantendo a ordem dos elementos.
 
 ## Cópia Lista
+
+Criar uma lista cópia que irá conter o dobro do tamanho da lista original. A primeira metade da lista cópia vai conter os elementos na ordem da lista original e a segunda parte vai conter os elementos na ordem inversa.
