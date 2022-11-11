@@ -9,7 +9,6 @@ Foram adicionados 4 elementos na fila e depois foi removido o primeiro elemento.
 
 ![Laboratório 10 - Fila](/relatorio/Imagens/Laboratorio10/fila.jpg)
 
-#
 
 ## Pilha
 
@@ -19,7 +18,6 @@ Em seguida foi removido o elemento do topo da pilha, ou seja o 25.
 
 ![Laboratório 10 - Pilha](/relatorio/Imagens/Laboratorio10/pilha.jpg)
 
-#
 
 ## Lista
 
