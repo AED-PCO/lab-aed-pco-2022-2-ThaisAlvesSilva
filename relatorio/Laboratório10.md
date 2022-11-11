@@ -1,5 +1,5 @@
 
-# Laboratório 10 - Fila, Pilha e Lista utilizando classes
+# Laboratório 10 - Fila, Pilha e Lista dinâmicas utilizando classes
 
 
 ## Fila
