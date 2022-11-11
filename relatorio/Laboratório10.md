@@ -1,5 +1,5 @@
 
-# Laboratório 9 - Lista, Filha e Pilha utilizando classe
+# Laboratório 10 - Fila, Pilha e Lista utilizando classes
 
 
 ## Fila
