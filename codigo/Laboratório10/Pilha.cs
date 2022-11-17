@@ -42,8 +42,11 @@ namespace classe
             }
             else
             {
-                Console.WriteLine($"\n\nElemento {primeiro.proximo.aluno.nota} retirado da pilha com sucesso!");
+                Elemento auxRet = primeiro.proximo;
                 primeiro.proximo = primeiro.proximo.proximo;
+                auxRet.proximo = null;
+
+                Console.WriteLine($"\n\nElemento {auxRet.aluno.nota} retirado da pilha com sucesso!");
 
             }
         }

@@ -43,14 +43,16 @@ namespace classe
             }
             else
             {
-                Console.WriteLine($"\n\nElemento {primeiro.proximo.aluno.nota} retirado da fila com sucesso!");
+                Elemento auxRet = primeiro.proximo;
                 primeiro.proximo = primeiro.proximo.proximo;
-                
+                auxRet.proximo = null;
+                Console.WriteLine($"\n\nElemento {auxRet.aluno.nota} retirado da fila com sucesso!");
+
             }
         }
 
           public void imprimir() {
-            Elemento dado = this.primeiro.proximo;
+            Elemento dado = primeiro.proximo;
 
             Console.WriteLine("\nElementos da fila:");
             while(dado != null)

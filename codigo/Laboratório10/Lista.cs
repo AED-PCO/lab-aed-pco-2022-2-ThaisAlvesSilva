@@ -37,13 +37,15 @@ namespace classe
             }
             else
             {
-                if (pos == -1)
+                if (pos == -1)      //vai inserir no final da lista
                 {
+                    
                     ultimo.proximo = novo;
                     ultimo = novo;
                 }
-                else
+                else                //vai inserir em uma posição específica
                 {
+                    
                     Elemento aux = primeiro;
                     Elemento auxRet;
                     while (cont < pos && aux.proximo != null)
@@ -70,8 +72,9 @@ namespace classe
                 Elemento aux = primeiro;
                 Elemento auxRet;
                 bool achou = false;
-                if (isNum)
+                if (isNum)               //vai retirar um valor específico 
                 {
+                   
                     while (aux.proximo != null)
                     {
                         if (aux.proximo.aluno.nota == num)
@@ -96,12 +99,14 @@ namespace classe
                     }
                     
                 }
-                else
+                else            //vai retirar o último elemento
                 {
+                    
                     while(aux.proximo.proximo != null)
                     {
                         aux = aux.proximo;
                     }
+
                     auxRet = aux.proximo;
                     aux.proximo = auxRet.proximo;
                     ultimo = aux;

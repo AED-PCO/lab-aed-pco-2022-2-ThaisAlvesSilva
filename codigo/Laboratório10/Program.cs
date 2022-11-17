@@ -2,7 +2,7 @@
 using System.Xml.Linq;
 using classe;
 
-namespace lista_filha_pilha
+namespace Exc1
 {
     class Program
     {
@@ -35,7 +35,6 @@ namespace lista_filha_pilha
             fila.retirar();
 
             fila.imprimir();
-
 
             Console.WriteLine("\n\n\n-----------------------PILHA----------------------------------------------");
 
