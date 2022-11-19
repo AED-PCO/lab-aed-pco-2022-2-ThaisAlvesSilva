@@ -8,97 +8,167 @@ namespace Exc1
     {
         static void Main(string[] args)
         {
+     
+            int op = menuPrincipal();
+        
+            switch (op)
+            {
+                case 1:
+                    fila();
+                    break;
+                case 2:
+                    pilha();
+                    break;
+                case 3:
+                    lista();
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        static void fila()
+        {
+            Console.Clear();
             Fila fila = new Fila();
-            Lista lista = new Lista();
+            int op = menu("FILA"), num;
+
+            while (op != 4)
+            {
+                switch (op)
+                {
+                    case 1:
+                        Console.WriteLine("Qual valor deseja inserir na fila?");
+                        num = int.Parse(Console.ReadLine());
+                        fila.inserir(num);
+                        break;
+                    case 2:
+                        fila.retirar();
+                        sair();
+                        break;
+                    case 3:
+                        fila.imprimir();
+                        sair();
+                        break;
+                }
+                Console.Clear();
+                op = menu("FILA");
+            }
+        }
+
+        static void pilha()
+        {
+            Console.Clear();
             Pilha pilha = new Pilha();
-            int num;
+            int op = menu("PILHA"), num;
 
-            Console.WriteLine("-----------------------FILA----------------------------------------------");
+            while (op != 4)
+            {
+                switch (op)
+                {
+                    case 1:
+                        Console.WriteLine("Qual valor deseja inserir na pilha?");
+                        num = int.Parse(Console.ReadLine());
+                        pilha.inserir(num);
+                        break;
+                    case 2:
+                        pilha.retirar();
+                        sair();
+                        break;
+                    case 3:
+                        pilha.imprimir();
+                        sair();
+                        break;
+                }
+                Console.Clear();
+                op = menu("PILHA");
+            }
+        }
 
-            Elemento elementoFila = new Elemento();
-            Elemento elementoFila2 = new Elemento();
-            Elemento elementoFila3 = new Elemento();
-            Elemento elementoFila4 = new Elemento();
+        static void lista()
+        {
+            Console.Clear();
+            Lista lista = new Lista();
+            int op = menu("LISTA"), num, pos;
+            char resp = 'N';
 
-            elementoFila.aluno.nota = 8;
-            elementoFila2.aluno.nota = 23;
-            elementoFila3.aluno.nota = 42;
-            elementoFila4.aluno.nota = 15;
+            while (op != 4)
+            {
+                switch (op)
+                {
+                    case 1:
 
-            fila.inserir(elementoFila);
-            fila.inserir(elementoFila2);
-            fila.inserir(elementoFila3);
-            fila.inserir(elementoFila4);
+                        Console.WriteLine("Deseja escolher uma posição para adicionar (s)im ou (n)ão?");
+                        resp = char.Parse(Console.ReadLine());
+                        if (resp == 's' || resp == 'S')
+                        {
+                            Console.WriteLine("Em qual posição deseja inserir o valor?");
+                            pos = int.Parse(Console.ReadLine());
+                        }
+                        else
+                        {
+                            pos = -1;
+                        }
+                        Console.WriteLine("Qual valor deseja inserir na lista?");
+                        num = int.Parse(Console.ReadLine());
+                        lista.inserir(num, pos);
+                        break;
+                    case 2:
+                        Console.WriteLine("Deseja escolher um valor específico para retirar da lista (s)im ou (n)ão?");
+                        resp = char.Parse(Console.ReadLine());
+                        if (resp == 's' || resp == 'S')
+                        {
+                            Console.WriteLine("Qual valor deseja retirar?");
+                            num = int.Parse(Console.ReadLine());
+                            lista.retirar(num, true);
+                        }
+                        else
+                        {
+                            lista.retirar(0, false);
+                        }
+                        sair();
+                        break;
+                    case 3:
+                        lista.imprimir();
+                        sair();
+                        break;
+                }
+                Console.Clear();
+                op = menu("LISTA");
+            }
+        }
 
-            fila.imprimir();
 
-            fila.retirar();
+        static int menu(string estrutura)
+        {
+                int op;
+                Console.WriteLine("==============================");
+                Console.WriteLine("|(1)INSERIR NA " + estrutura +"           |");
+                Console.WriteLine("|(2)RETIRAR DA " + estrutura + "           |");
+                Console.WriteLine("|(3)MOSTRAR A " + estrutura + "            |");
+                Console.WriteLine("|(4)SAIR    		      |");
+                Console.WriteLine("==============================");
+                op = int.Parse(Console.ReadLine());
+                return op;
+            
+        }
 
-            fila.imprimir();
+        static int menuPrincipal()
+        {
+            int op;
+            Console.WriteLine("========================");
+            Console.WriteLine("|(1)FILA              |");
+            Console.WriteLine("|(2)PILHA	      |");
+            Console.WriteLine("|(3)LISTA	      |");
+            Console.WriteLine("========================");
+            op = int.Parse(Console.ReadLine());
+            return op;
+        }
 
-            Console.WriteLine("\n\n\n-----------------------PILHA----------------------------------------------");
-
-            Elemento elementoPilha = new Elemento();
-            Elemento elementoPilha2 = new Elemento();
-            Elemento elementoPilha3 = new Elemento();
-            Elemento elementoPilha4 = new Elemento();
-
-
-            elementoPilha.aluno.nota = 88;
-            elementoPilha2.aluno.nota = 233;
-            elementoPilha3.aluno.nota = 11;
-            elementoPilha4.aluno.nota = 25;
-
-            pilha.inserir(elementoPilha);
-            pilha.inserir(elementoPilha2);
-            pilha.inserir(elementoPilha3);
-            pilha.inserir(elementoPilha4);
-
-            pilha.imprimir();
-
-            pilha.retirar();
-
-            pilha.imprimir();
-
-            Console.WriteLine("\n\n\n-----------------------LISTA----------------------------------------------");
-
-            Elemento elementoLista = new Elemento();
-            Elemento elementoLista2 = new Elemento();
-            Elemento elementoLista3 = new Elemento();
-            Elemento elementoLista4 = new Elemento();
-
-            elementoLista.aluno.nota = 4;
-            elementoLista2.aluno.nota = 78;
-            elementoLista3.aluno.nota = 40;
-
-            lista.inserir(elementoLista);
-            lista.inserir(elementoLista2);
-            lista.inserir(elementoLista3);
-
-            lista.imprimir();
-
-            Console.WriteLine("\n\nEm qual posição deseja inserir o novo elemento na lista?");
-            int pos = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("\n\nQual valor deseja inserir na lista?");
-            num = int.Parse(Console.ReadLine());
-
-            elementoLista4.aluno.nota = num;
-
-            lista.inserir(elementoLista4, pos);
-
-            lista.imprimir();
-
-            Console.WriteLine("\n\nQual elemento deseja retirar da lista?");
-            num = int.Parse(Console.ReadLine());
-
-            lista.retirar(num, true);            // RETIRANDO UM ELEMENTO ESPECÍFICO DA LISTA
-
-            Console.WriteLine("\nRetirando o último elemento da lista:");
-            lista.retirar(-1, false);           // RETIRANDO O ÚLTIMO ELEMENTO DA LISTA
-
-            lista.imprimir();
-
+        static void sair()
+        {
+            Console.WriteLine("\nPressione qualquer tecla para voltar ao menu principal...");
+            Console.ReadKey();
         }
 
     }

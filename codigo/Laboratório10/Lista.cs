@@ -27,9 +27,11 @@ namespace classe
             return primeiro.proximo == null ? true : false;
         }
 
-        public void inserir(Elemento novo, int pos = -1)
+        public void inserir(int nota, int pos = -1)
         {
             int cont = 1;
+            Elemento novo = new Elemento();
+            novo.aluno.nota = nota;
             if (isVazia())
             {
                 primeiro.proximo = novo;
