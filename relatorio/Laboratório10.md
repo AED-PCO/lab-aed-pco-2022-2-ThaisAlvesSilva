@@ -2,6 +2,7 @@
 # Laboratório 10 - Fila, Pilha e Lista dinâmicas utilizando classes
 
 Menu para o usuário escolher qual estrutura deseja utilizar:
+
 ![Laboratório 10 - Fila](/relatorio/Imagens/Laboratorio10/escolha.jpg)
 
 ## Fila
